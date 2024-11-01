@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Instagram Feed\n"
+"POT-Creation-Date: 2016-02-22 22:36+0100\n"
+"PO-Revision-Date: 2016-02-22 22:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: simple-instagram-feed.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/options.php:43
+msgid "You are connected!"
+msgstr "Vous êtes connecté !"
+
+#: inc/options.php:47
+msgid "You are disconnected!"
+msgstr "Vous avez été deconnecté"
+
+#. Plugin Name of the plugin/theme
+#: inc/options.php:52 inc/options.php:53 inc/options.php:69
+msgid "Simple Instagram Feed"
+msgstr "Simple Instagram Feed"
+
+#: inc/options.php:72 inc/options.php:115
+msgid "General"
+msgstr "Général"
+
+#: inc/options.php:73 inc/options.php:236
+msgid "Feed settings"
+msgstr "Paramètres du flux"
+
+#: inc/options.php:74 inc/options.php:186
+msgid "Customize"
+msgstr "Personnaliser"
+
+#: inc/options.php:75 inc/options.php:385
+msgid "Advanced"
+msgstr "Avancé"
+
+#: inc/options.php:100
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n’avez pas les permissions pour accéder à cette page !"
+
+#: inc/options.php:122
+msgid "Access token"
+msgstr ""
+
+#: inc/options.php:139
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: inc/options.php:163
+msgid "Sign out with Instagram"
+msgstr "Déconnexion avec Instagram"
+
+#: inc/options.php:168
+msgid "Sign in with Instagram"
+msgstr "Connectez-vous avec Instagram"
+
+#: inc/options.php:177 inc/options.php:228 inc/options.php:377
+#: inc/options.php:411
+msgid "This section description"
+msgstr "Cette description de l'article"
+
+#: inc/options.php:193
+msgid "Theme"
+msgstr "Thème"
+
+#: inc/options.php:202
+msgid "None"
+msgstr "Aucun"
+
+#: inc/options.php:203
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/options.php:210
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: inc/options.php:243
+msgid "Media count"
+msgstr "Nombre de médias"
+
+#: inc/options.php:261
+msgid "Show likes"
+msgstr "Afficher les \"J'aime\""
+
+#: inc/options.php:275
+msgid "Show comments"
+msgstr "Afficher les commentaires"
+
+#: inc/options.php:289
+msgid "Show description"
+msgstr "Afficher la description"
+
+#: inc/options.php:303
+msgid "Show datetime"
+msgstr "Afficher Date/Heure"
+
+#: inc/options.php:317
+msgid "Date format"
+msgstr "Format de la date"
+
+#: inc/options.php:331
+msgid "Video player"
+msgstr "Lecteur vidéo"
+
+#: inc/options.php:345
+msgid "Video player - loop"
+msgstr "Lecteur vidéo - boucle"
+
+#: inc/options.php:359
+msgid "Links"
+msgstr "Liens"
+
+#: inc/options.php:368
+msgid "No"
+msgstr "Aucun"
+
+#: inc/options.php:369
+msgid "Open the link in the same browser window"
+msgstr "Ouvrir dans la même fenêtre"
+
+#: inc/options.php:370
+msgid "Open the link in a new browser window"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre"
+
+#: inc/options.php:392
+msgid "Cache expiration"
+msgstr "Expiration du Cache"
+
+#: inc/options.php:402
+msgid "in seconds. 0 for never expires."
+msgstr "en secondes. 0 pour ne jamais expirer."
+
+#: simple-instagram-feed.php:116
+msgid "Error: no access token"
+msgstr "Erreur : aucun jeton d'accès"
+
+#. Author of the plugin/theme
+msgid "Yann Kozon"
+msgstr "Yann Kozon"
+
+#. Author URI of the plugin/theme
+msgid "https://www.yannkozon.com/"
+msgstr "https://www.yannkozon.com/"
